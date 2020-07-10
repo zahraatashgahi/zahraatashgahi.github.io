@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zahra Atashgahi"
 description              : &description "Ph.D. Candidate at University of Twente"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Zahra Atashgahi"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate"
+  bio              : "Ph.D. Candidate at University of Twente"
   location         : "The Netherlands"
-  employer         : "University of Twente"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_nmvlmkAAAAJ&hl=en"
   email            : "z.atashgahi@utwente.nl"
