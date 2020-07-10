@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Zahra Atashgahi"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate at University of Twente"
+  bio              : "Ph.D. Candidate"
   location         : "The Netherlands"
-  employer         :
+  employer         : "University of Twente"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_nmvlmkAAAAJ&hl=en"
   email            : "z.atashgahi@utwente.nl"
@@ -94,22 +94,22 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/zahra.atashgahy.31"
+  facebook         : "zahra.atashgahy.31"
   foursquare       :
-  github           : "https://github.com/zahraatashgahi"
+  github           : "zahraatashgahi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/atashgahi/"
+  linkedin         : "atashgahi"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/ZAtashgahi"
+  twitter          : "ZAtashgahi"
   vine             :
   weibo            :
   xing             :
