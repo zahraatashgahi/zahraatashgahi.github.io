@@ -3,8 +3,8 @@ title: "Quick and Robust Feature Selection: the Strength of Energy-efficient Spa
 collection: publications
 permalink: /publication/2020-QuickSelection
 excerpt: ''
-date: 2020--12-01
-venue: 'Journal 1'
+date: 2020-12-01
+venue: ''
 paperurl: 'https://arxiv.org/abs/2012.00560'
 '
 ---
