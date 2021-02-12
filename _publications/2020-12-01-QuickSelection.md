@@ -1,12 +1,12 @@
 ---
 title: "Quick and Robust Feature Selection: the Strength of Energy-efficient Sparse Training for Autoencoders"
 collection: publications
-permalink: /publication/2020-QuickSelection
+permalink: /publication/2020-12-01-QuickSelection
 excerpt: 'Feature selection using sparse neural networks'
 date: 2020-12-01
 venue: 'Under review at MLJ'
 paperurl: 'https://arxiv.org/abs/2012.00560'
-'
+citation:'Atashgahi, Zahra, et al. "Quick and Robust Feature Selection: the Strength of Energy-efficient Sparse Training for Autoencoders." arXiv preprint arXiv:2012.00560 (2020).'
 ---
 
 [Download paper here](https://arxiv.org/pdf/2012.00560.pdf)
@@ -21,3 +21,5 @@ paperurl: 'https://arxiv.org/abs/2012.00560'
       primaryClass={cs.LG}
 }
 ```
+
+
