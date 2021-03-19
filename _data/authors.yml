@@ -1,18 +1,9 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  name        : "Zahra Atashgahi"
+  uri         : "https://people.utwente.nl/z.atashgahi"
+  email       : "z.atashgahi@utwente.nl"
+  bio         : "Hi. I'm Zahra. Thanks for stopping by! :)"
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  twitter     : "https://twitter.com/ZAtashgahi"
