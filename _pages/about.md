@@ -17,7 +17,7 @@ Deep Learning, Sparse Neural Networks, Feature Selection, Anomaly Detection, Tim
 
 Education
 ======
-xxxxx
+
 
 |         Period        | Degree |                        University                       |
 |:---------------------:|:------:|:-------------------------------------------------------:|
@@ -28,5 +28,5 @@ xxxxx
 
 
 
-<sup>*</sup> My PhD started at the Eindhoven University of Technology; after a few month I moved to University of Twente together with Dr. Decebal Mocanu, my Ph.D. supervisor.
+<sup>*</sup> <sub>*My PhD started at the Eindhoven University of Technology; after a few month I moved to University of Twente together with Dr. Decebal Mocanu, my Ph.D. supervisor.*</sub>
 
