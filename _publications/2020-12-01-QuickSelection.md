@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-12-01-QuickSelection
 excerpt: 'Feature selection using sparse neural networks'
 date: 2020-12-01
-venue: 'Under review at MLJ'
+venue: 'In Press: Accepted at Machine Learning Journal - ECML PKDD 2022 Journal track'
 paperurl: 'https://arxiv.org/abs/2012.00560'
 citation:'Atashgahi, Zahra, et al. "Quick and Robust Feature Selection: the Strength of Energy-efficient Sparse Training for Autoencoders." arXiv preprint arXiv:2012.00560 (2020).'
 ---
