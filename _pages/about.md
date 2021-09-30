@@ -17,6 +17,8 @@ Deep Learning, Sparse Neural Networks, Feature Selection, Anomaly Detection, Tim
 
 Education
 ======
+xxxxx
+
 |         Period        | Degree |                        University                       |
 |:---------------------:|:------:|:-------------------------------------------------------:|
 | May 2020 - present    | Ph.D.  | University of Twente                                    |
