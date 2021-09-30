@@ -21,8 +21,8 @@ Education
 ------------ | ------------- | -------------
  May 2020 - present | Ph.D. | University of Twente
  Oct. 2019 - Apr. 2020| Ph.D. | Eindhoven University of Technology <sup>*</sup>
- Sep. 2017 - Sep. 2019 | Ph.D. | Amirkabir University of Technology (Tehran Polytechnic)
- Sep 2013 - Jul. 2017 | Ph.D. | Amirkabir University of Technology (Tehran Polytechnic)
+ Sep. 2017 - Sep. 2019 | M.Sc. | Amirkabir University of Technology (Tehran Polytechnic)
+ Sep 2013 - Jul. 2017 | B.Sc. | Amirkabir University of Technology (Tehran Polytechnic)
 
 
 
