@@ -1,15 +1,23 @@
 ---
-title: "Paper Title Number 2"
+title: "FreeTickets: Accurate, Robust and Efficient Deep Ensemble by Training with Dynamic Sparsity"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2021-06-28-FreeTickets
+excerpt: ''
+date: 2021-06-28
+venue: ''
+paperurl: 'https://arxiv.org/pdf/2106.14568.pdf'
+citation: 'Liu, S., Chen, T., Atashgahi, Z., Chen, X., Sokar, G., Mocanu, E., ... & Mocanu, D. C. (2021). FreeTickets: Accurate, Robust and Efficient Deep Ensemble by Training with Dynamic Sparsity. arXiv preprint arXiv:2106.14568.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](https://arxiv.org/pdf/2106.14568.pdf)
+
+```
+@article{liu2021freetickets,
+  title={FreeTickets: Accurate, Robust and Efficient Deep Ensemble by Training with Dynamic Sparsity},
+  author={Liu, Shiwei and Chen, Tianlong and Atashgahi, Zahra and Chen, Xiaohan and Sokar, Ghada and Mocanu, Elena and Pechenizkiy, Mykola and Wang, Zhangyang and Mocanu, Decebal Constantin},
+  journal={arXiv preprint arXiv:2106.14568},
+  year={2021}
+}
+```
+
