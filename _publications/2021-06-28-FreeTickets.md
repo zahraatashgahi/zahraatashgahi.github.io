@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-06-28
 venue: ''
 paperurl: 'https://arxiv.org/pdf/2106.14568.pdf'
-citation: 'Liu, S., Chen, T., Atashgahi, Z., Chen, X., Sokar, G., Mocanu, E., ... & Mocanu, D. C. (2021). FreeTickets: Accurate, Robust and Efficient Deep Ensemble by Training with Dynamic Sparsity. arXiv preprint arXiv:2106.14568.'
+citation: 'Liu, S., Chen, T., **Atashgahi, Z.**, Chen, X., Sokar, G., Mocanu, E., ... & Mocanu, D. C. (2021). FreeTickets: Accurate, Robust and Efficient Deep Ensemble by Training with Dynamic Sparsity. arXiv preprint arXiv:2106.14568.'
 ---
 
 
