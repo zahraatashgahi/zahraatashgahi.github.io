@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-06-01
 venue: 'ECML PKDD 2020, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases'
 paperurl: 'https://arxiv.org/pdf/2006.14085.pdf'
-citation: 'Liu, S., Van der Lee, T., Yaman, A., ***Atashgahi, Z.***, Ferraro, D., Sokar, G., ... & Mocanu, D. C. (2020). Topological insights into sparse neural networks. In Proceedings of European Conference on Machine Learning and Knowledge Discovery in Databases, ECML PKDD 2020, Research Track'
+citation: 'Liu, S., Van der Lee, T., Yaman, A., Atashgahi, Z., Ferraro, D., Sokar, G., ... & Mocanu, D. C. (2020). Topological insights into sparse neural networks. In Proceedings of European Conference on Machine Learning and Knowledge Discovery in Databases, ECML PKDD 2020, Research Track'
 ---
 
 [Download paper here](https://arxiv.org/pdf/2006.14085.pdf)
