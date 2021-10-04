@@ -13,11 +13,11 @@ main:
   - title: "News"
     url: /news/
 
+   - title: "Teaching & Supervision"
+     url: /teaching/   
+
 [//]: #  - title: "Blog Posts"
-[//]: #    url: /year-archive/
-    
-[//]: #   - title: "Teaching"
-[//]: #     url: /teaching/    
+[//]: #    url: /year-archive/ 
     
 [//]: #   - title: "Portfolio"
 [//]: #     url: /portfolio/
