@@ -15,4 +15,4 @@ author_profile: true
 
 
 # 2019
-
+- ***10/2019***, I have started my Ph.D. at the Eindhoven University of Technology ([TU/e](https://www.tue.nl/en/)). My Ph.D. is funded by the ([NWO EDIC](https://c2d.bubblefish-clients.nl/projecten/edic-exceptional-deep-intelligent-coach)) project
