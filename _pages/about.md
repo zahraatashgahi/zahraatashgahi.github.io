@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Introduction"
+title: "Zahra Atashgahi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
