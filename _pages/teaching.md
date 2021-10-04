@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # Supervision
+
 - ***2021***, *Neil Kichler*, [Robustness of sparse MLPs for supervised feature selection](http://essay.utwente.nl/86886/) ([Together with Dr. Decebal Mocanu](https://people.utwente.nl/d.c.mocanu))
 - ***2021***, *Xuhao Zhang*, [Supervised feature selection using sparse neural networks](https://drive.google.com/file/d/1GKC9eZjTKLAjMNwZULIoim7iO1vXPtPh/view) ([Together with Dr. Decebal Mocanu](https://people.utwente.nl/d.c.mocanu))
 - ***2021***, *Neil Kichler*, [Robustness of sparse MLPs for supervised feature selection](http://essay.utwente.nl/86886/) ([Together with Dr. Decebal Mocanu](https://people.utwente.nl/d.c.mocanu))
