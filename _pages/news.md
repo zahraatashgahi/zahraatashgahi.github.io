@@ -11,7 +11,7 @@ author_profile: true
 
 
 # 2020
-- ***05/2020***, I have moved to University of Twente together with Dr. Decebal Mocanu, my Ph.D. supervisor, to continue my Ph.D at University of Twente ([UT](https://www.tue.nl/en/)). My Ph.D. is funded by the ([NWO EDIC](https://c2d.bubblefish-clients.nl/projecten/edic-exceptional-deep-intelligent-coach)) project and University of Twente. 
+- ***05/2020***, I have moved to University of Twente together with Dr. Decebal Mocanu, my Ph.D. supervisor, to continue my Ph.D at University of Twente ([UT](https://www.utwente.nl/en/)). My Ph.D. is funded by the ([NWO EDIC](https://c2d.bubblefish-clients.nl/projecten/edic-exceptional-deep-intelligent-coach)) project and University of Twente. 
 
 
 # 2019
