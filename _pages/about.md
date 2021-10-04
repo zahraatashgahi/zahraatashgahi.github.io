@@ -13,7 +13,9 @@ I'm Zahra Atashgahi. Currently, I'm a Ph.D. candidate at University of Twente, D
 
 Research Interests
 ======
-Deep Learning, Sparse Neural Networks, Feature Selection, Anomaly Detection, Time Series Analysis
+
+Machine Learning, Sparse Neural Network, Deep Learning, Cost-efficient Neural Networks, Time Series Analysis, Feature Selection, Anomaly Detection, Continual Learning, Healthcare
+
 
 Education
 ======
