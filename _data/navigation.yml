@@ -13,8 +13,8 @@ main:
   - title: "News"
     url: /news/
 
-   - title: "Teaching & Supervision"
-     url: /teaching/   
+  - title: "Teaching & Supervision"
+    url: /teaching/   
 
 [//]: #  - title: "Blog Posts"
 [//]: #    url: /year-archive/ 
