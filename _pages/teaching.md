@@ -11,8 +11,3 @@ author_profile: true
 - ***2021***, *Neil Kichler*, [Robustness of sparse MLPs for supervised feature selection](http://essay.utwente.nl/86886/) ([Together with Dr. Decebal Mocanu](https://people.utwente.nl/d.c.mocanu))
 
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
