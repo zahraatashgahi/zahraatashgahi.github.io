@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # 2021
+- ***10/2021***, our paper "Quick and Robust Feature Selection: the Strength of Energy-efficient Sparse Training for Autoencoders (Extended Abstract)", has been accepted for inclusion in the [BNAIC conference](https://bnaic2021.uni.lu/) program.
 - ***09/2021***, Our paper, "Sparse Training via Boosting Pruning Plasticity with Neuroregeneration" has been accepted at NeurIPS 2021. Find more information [here](https://zahraatashgahi.github.io/publication/2021-06-19-Sparse-Training-via-Boosting-Pruning-Plasticity-with-Neuroregeneration). 
 - ***09/2021***, I participated ACM [womENcourage 2021](https://womencourage.acm.org/2021/) ([Certificate](https://zahraatashgahi.github.io/files/certificates/2021/OxML_School_certificate.pdf)) as a student volunteer and also presented a poster. You can find the poster [here](https://womencourage.acm.org/2021/wp-content/uploads/2021/07/65_poster.pdf) and the corresponding extended abstract [here](https://womencourage.acm.org/2021/wp-content/uploads/2021/07/65_extendedabstract.pdf). 
 - ***08/2021***, I attended Oxford Machine Learning Summer School 2021 ([Certificate](https://zahraatashgahi.github.io/files/certificates/2021/acmwomEncourage.pdf)). 
