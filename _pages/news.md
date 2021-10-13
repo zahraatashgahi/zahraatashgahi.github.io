@@ -12,6 +12,7 @@ author_profile: true
 - ***07/2021***, Our manuscript, "Quick and Robust Feature Selection: the Strength of Energy-efficient Sparse Training for Autoencoders" has been accepted for publication in Machine Learning Journal (ECML-PKDD 2022 journal track). Find more information [here](https://zahraatashgahi.github.io/publication/2020-12-01-QuickSelection). 
 - ***07/2021***, My application for joining ([IJCAI 2021](https://ijcai-21.org/)) as an student volunteer has been accepted.
 - ***07/2021***, Our paper, "Quick and Robust Feature Selection: the Strength of Energy-efficient Sparse Training for Autoencoders", has been accepted in [Sparse Neural Network Workshop 2021](https://www.sparseneural.net/accepted-papers). Check the poster [here](https://zahraatashgahi.github.io/files/posters/2021/QuickSelection_poster.pdf).
+- ***06/2021***, My doctoral consortium has been accepted for presentation at [IJCAI 2021](https://ijcai-21.org/). You can find the poster [here](https://zahraatashgahi.github.io/files/posters/2021/ijcai_poster.pdf).
 - ***06/2021***, I have been accepted for [Oxford Machine Learning Summer School 2021](https://www.oxfordml.school/) (acceptance rate: 15%).
 - ***06/2021***, I have received scholarship for the 8th ACM Celebration of Women in Computing ([womENcourage 2021](https://womencourage.acm.org/2021/)).
 
