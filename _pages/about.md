@@ -19,10 +19,11 @@ Machine Learning, Sparse Neural Network, Deep Learning, Cost-efficient Neural Ne
 
 News
 ======
-- ***04/2022***, Our paper, "A Brain-inspired Algorithm for Training Highly Sparse Neural Networks" got minor revision in *Machine Learning Journal (ECML-PKDD 2022 journal track)*.  Find more information check [here](https://zahraatashgahi.github.io/publication/2022-01-01-CTRE). [[paper](https://arxiv.org/abs/1903.07138), [code](https://github.com/zahraatashgahi/CTRE)]
+- ***04/2022***, our tutorial “Sparse Neural Networks Training” has been accepted at ECMLPKDD 2022 conferenc. Find more information [here](https://sites.google.com/view/ecmlpkdd2022--sparse-training/home).
+-  ***04/2022***, Our paper, "A Brain-inspired Algorithm for Training Highly Sparse Neural Networks" got minor revision in *Machine Learning Journal (ECML-PKDD 2022 journal track)*.  Find more information [here](https://zahraatashgahi.github.io/publication/2022-01-01-CTRE). ([paper](https://arxiv.org/abs/1903.07138), [code](https://github.com/zahraatashgahi/CTRE))
 - ***01/2022***, Our paper, "Deep Ensembling with No Overhead for either Training or Testing: The All-Round Blessings of Dynamic Sparsity" has been accepted at *ICLR 2022*. Find more information check [here](https://zahraatashgahi.github.io/publication/2021-06-19-Sparse-Training-via-Boosting-Pruning-Plasticity-with-Neuroregeneration](https://zahraatashgahi.github.io/publication/2021-06-28-FreeTickets). 
 - ***09/2021***, Our paper, "Sparse Training via Boosting Pruning Plasticity with Neuroregeneration" has been accepted at *NeurIPS 2021*. Find more information check [here](https://zahraatashgahi.github.io/publication/2021-06-19-Sparse-Training-via-Boosting-Pruning-Plasticity-with-Neuroregeneration). 
-- ***07/2021***, Our manuscript, "Quick and Robust Feature Selection: the Strength of Energy-efficient Sparse Training for Autoencoders" has been accepted for publication in *Machine Learning Journal (ECML-PKDD 2022 journal track)*. Find more information check [here](https://zahraatashgahi.github.io/publication/2020-12-01-QuickSelection).  [[paper](https://arxiv.org/abs/2012.00560), [code](https://github.com/zahraatashgahi/QuickSelection)]
+- ***07/2021***, Our manuscript, "Quick and Robust Feature Selection: the Strength of Energy-efficient Sparse Training for Autoencoders" has been accepted for publication in *Machine Learning Journal (ECML-PKDD 2022 journal track)*. Find more information [here](https://zahraatashgahi.github.io/publication/2020-12-01-QuickSelection).  [[paper](https://arxiv.org/abs/2012.00560), [code](https://github.com/zahraatashgahi/QuickSelection)]
 
 For more news check [here](https://zahraatashgahi.github.io/news/).
 
