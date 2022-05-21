@@ -1,5 +1,5 @@
 ---
-title: "FreeTickets: Accurate, Robust and Efficient Deep Ensemble by Training with Dynamic Sparsity"
+title: "Deep Ensembling with No Overhead for either Training or Testing: The All-Round Blessings of Dynamic Sparsity"
 collection: publications
 permalink: /publication/2021-06-28-FreeTickets
 excerpt: ''
@@ -13,11 +13,13 @@ citation: 'Liu, S., Chen, T., Atashgahi, Z., Chen, X., Sokar, G., Mocanu, E., ..
 [Download paper here](https://arxiv.org/pdf/2106.14568.pdf)
 
 ```
-@article{liu2021freetickets,
-  title={FreeTickets: Accurate, Robust and Efficient Deep Ensemble by Training with Dynamic Sparsity},
-  author={Liu, Shiwei and Chen, Tianlong and Atashgahi, Zahra and Chen, Xiaohan and Sokar, Ghada and Mocanu, Elena and Pechenizkiy, Mykola and Wang, Zhangyang and Mocanu, Decebal Constantin},
-  journal={arXiv preprint arXiv:2106.14568},
-  year={2021}
+@inproceedings{
+liu2022deep,
+title={Deep Ensembling with No Overhead for either Training or Testing: The All-Round Blessings of Dynamic Sparsity},
+author={Shiwei Liu and Tianlong Chen and Zahra Atashgahi and Xiaohan Chen and Ghada Sokar and Elena Mocanu and Mykola Pechenizkiy and Zhangyang Wang and Decebal Constantin Mocanu},
+booktitle={International Conference on Learning Representations},
+year={2022},
+url={https://openreview.net/forum?id=RLtqs6pzj1-}
 }
 ```
 
