@@ -1,0 +1,23 @@
+---
+title: "A Brain-inspired Algorithm for Training Highly Sparse Neural Networks"
+collection: publications
+permalink: /publication/2020-12-01-CTRE
+excerpt: 'Training highly sparse neural networks'
+date: 2022-05
+venue: 'Minor revision at Machine Learning Journal - ECML PKDD 2022 Journal track'
+paperurl: 'https://arxiv.org/abs/1903.07138'
+citation: 'Atashgahi, Z., Pieterse, J., Liu, S., Mocanu, D. C., Veldhuis, R., & Pechenizkiy, M. (2019). A Brain-inspired Algorithm for Training Highly Sparse Neural Networks. arXiv preprint arXiv:1903.07138.'
+---
+
+[Download paper here](https://arxiv.org/pdf/2012.00560.pdf)
+
+```
+@article{atashgahi2019brain,
+  title={A Brain-inspired Algorithm for Training Highly Sparse Neural Networks},
+  author={Atashgahi, Zahra and Pieterse, Joost and Liu, Shiwei and Mocanu, Decebal Constantin and Veldhuis, Raymond and Pechenizkiy, Mykola},
+  journal={arXiv preprint arXiv:1903.07138},
+  year={2019}
+}
+```
+
+
