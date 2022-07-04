@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-06-28-FreeTickets
 excerpt: ''
 date: 2021-06-28
-venue: ''
+venue: 'International Conference on Learning Representations (ICLR 2022)'
 paperurl: 'https://arxiv.org/pdf/2106.14568.pdf'
 citation: 'Liu, S., Chen, T., Atashgahi, Z., Chen, X., Sokar, G., Mocanu, E., ... & Mocanu, D. C. (2021). FreeTickets: Accurate, Robust and Efficient Deep Ensemble by Training with Dynamic Sparsity. arXiv preprint arXiv:2106.14568.'
 ---
