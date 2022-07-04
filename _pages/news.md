@@ -5,8 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 # 2022
+-  ***07/2022***, Our paper, "A Brain-inspired Algorithm for Training Highly Sparse Neural Networks" got accepted for publication in **Machine Learning Journal (ECML-PKDD 2022 journal track)**.  Find more information [here](https://zahraatashgahi.github.io/publication/2022-01-01-CTRE). ([paper](https://arxiv.org/abs/1903.07138), [code](https://github.com/zahraatashgahi/CTRE))
 - ***04/2022***, our tutorial “Sparse Neural Networks Training” has been accepted at **ECMLPKDD 2022 conference**. Find more information [here](https://sites.google.com/view/ecmlpkdd2022--sparse-training/home).
--  ***04/2022***, Our paper, "A Brain-inspired Algorithm for Training Highly Sparse Neural Networks" got minor revision in **Machine Learning Journal (ECML-PKDD 2022 journal track)**.  Find more information [here](https://zahraatashgahi.github.io/publication/2022-01-01-CTRE). ([paper](https://arxiv.org/abs/1903.07138), [code](https://github.com/zahraatashgahi/CTRE))
 - ***02/2022***, I've been accepted as a Student Visitor at University of Cambridge, **van der Schaar Lab**, under supervision of **Prof. Dr. Mihaela van der Schaar**. This 3-month research visit will be starting as of 1st of September 2022.
 - ***01/2022***, Our paper, "Deep Ensembling with No Overhead for either Training or Testing: The All-Round Blessings of Dynamic Sparsity" has been accepted at **ICLR 2022**. Find more information check [here](https://zahraatashgahi.github.io/publication/2021-06-28-FreeTickets). 
 
