@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # 2022
+-  ***09/2022***, Our paper, "Where to pay attention in sparse training for feature selection? " has been accepted at **NeurIPS 2022**.
 -  ***07/2022***, Our paper, "A Brain-inspired Algorithm for Training Highly Sparse Neural Networks" got accepted for publication in **Machine Learning Journal (ECML-PKDD 2022 journal track)**.  Find more information [here](https://zahraatashgahi.github.io/publication/2022-07-04-CTRE). ([paper](https://arxiv.org/abs/1903.07138), [code](https://github.com/zahraatashgahi/CTRE))
 - ***06/2022***, My application for joining ([IJCAI 2022](https://ijcai-22.org/)) as an student volunteer has been accepted.
 - ***04/2022***, our tutorial “Sparse Neural Networks Training” has been accepted at **ECMLPKDD 2022 conference**. Find more information [here](https://sites.google.com/view/ecmlpkdd2022--sparse-training/home).
