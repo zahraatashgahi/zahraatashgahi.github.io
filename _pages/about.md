@@ -21,7 +21,7 @@ News
 ======
 -  ***01/2023*** I've started my research vist at University of Cambridge, **van der Schaar Lab**, under supervision of **Prof. Dr. Mihaela van der Schaar**
 -  ***01/2023***, Our paper, "Supervised Feature Selection with Neuron Evolution in Sparse Neural Networks" has been accepted at **TMLR journal** ([OpenReview](https://openreview.net/forum?id=GcO6ugrLKp)).
--  ***09/2022***, Our paper, "Where to pay attention in sparse training for feature selection?" has been accepted at **NeurIPS 2022**.
+-  ***09/2022***, Our paper, "Where to pay attention in sparse training for feature selection?" has been accepted at **NeurIPS 2022** ([OpenReview](https://openreview.net/forum?id=xWvI9z37Xd)).
 -  ***07/2022***, Our paper, "A Brain-inspired Algorithm for Training Highly Sparse Neural Networks" got accepted for publication in **Machine Learning Journal (ECML-PKDD 2022 journal track)**.  Find more information [here](https://zahraatashgahi.github.io/publication/2022-07-04-CTRE). ([paper](https://arxiv.org/abs/1903.07138), [code](https://github.com/zahraatashgahi/CTRE))
 - ***04/2022***, our tutorial “Sparse Neural Networks Training” has been accepted at **ECMLPKDD 2022 conference**. Find more information [here](https://sites.google.com/view/ecmlpkdd2022--sparse-training/home).
 - ***01/2022***, Our paper, "Deep Ensembling with No Overhead for either Training or Testing: The All-Round Blessings of Dynamic Sparsity" has been accepted at **ICLR 2022**. Find more information check [here](https://zahraatashgahi.github.io/publication/2021-06-28-FreeTickets). 
