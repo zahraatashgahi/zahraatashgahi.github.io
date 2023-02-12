@@ -6,7 +6,7 @@ author_profile: true
 ---
 # 2023
 -  ***01/2023*** I've started my research vist at University of Cambridge, **van der Schaar Lab**, under supervision of **Prof. Dr. Mihaela van der Schaar**
--  ***01/2023***, Our paper, "Supervised Feature Selection with Neuron Evolution in Sparse Neural Networks" has been accepted at **TMLR journal** ([OpenReview](https://openreview.net/forum?id=GcO6ugrLKp)).
+-  ***01/2023***, Our paper, "Supervised Feature Selection with Neuron Evolution in Sparse Neural Networks" has been accepted at **TMLR journal** ([OpenReview](https://openreview.net/forum?id=GcO6ugrLKp), [code](https://github.com/zahraatashgahi/NeuroFS)).
 
 # 2022
 -  ***09/2022***, Our paper, "Where to pay attention in sparse training for feature selection? " has been accepted at **NeurIPS 2022** ([OpenReview](https://openreview.net/forum?id=xWvI9z37Xd)).
