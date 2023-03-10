@@ -19,6 +19,8 @@ Machine Learning, Sparse Neural Network, Deep Learning, Cost-efficient Neural Ne
 
 News
 ======
+-  ***03/2023*** I gave a talk TrustML Young Scientist Seminars organized by RIKEN-AIP center on "Learning Efficiently from Data using Sparse Neural Networks"
+[(Link)]https://trustmlresearch.github.io/seminar-talks/index_Zahra_Atashgahi.html).
 -  ***01/2023*** I've started my research vist at University of Cambridge, **van der Schaar Lab**, under supervision of **Prof. Dr. Mihaela van der Schaar**
 -  ***01/2023***, Our paper, "Supervised Feature Selection with Neuron Evolution in Sparse Neural Networks" has been accepted at **TMLR journal** ([OpenReview](https://openreview.net/forum?id=GcO6ugrLKp), [code](https://github.com/zahraatashgahi/NeuroFS)).
 -  ***09/2022***, Our paper, "Where to pay attention in sparse training for feature selection?" has been accepted at **NeurIPS 2022** ([OpenReview](https://openreview.net/forum?id=xWvI9z37Xd)).
@@ -44,5 +46,5 @@ Education
 
 
 
-<sup>*</sup> <sub>*My PhD started at the Eindhoven University of Technology; after a few month I moved to University of Twente together with Dr. Decebal Mocanu, my Ph.D. supervisor.*</sub>
+<sup>*</sup> <sub>*My PhD started at the Eindhoven University of Technology; after a few month I moved to University of Twente together with Dr. Decebal Mocanu, my Ph.D. /supervisor.*</sub>
 
