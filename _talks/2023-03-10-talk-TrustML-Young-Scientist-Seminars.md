@@ -3,9 +3,9 @@ title: "Learning Efficiently from Data using Sparse Neural Networks"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-03-10-talk-TrustML-Young-Scientist-Seminars
-venue: ""
+venue: "TrustML Young Scientist Seminars (RIKEN-AIP cneter)"
 date: 2023-03-10
-location: " Virtual"
+location: "Virtual"
 ---
 
 [More information here](https://trustmlresearch.github.io/seminar-talks/index_Zahra_Atashgahi.html)
