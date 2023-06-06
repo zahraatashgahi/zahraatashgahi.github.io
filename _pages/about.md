@@ -19,6 +19,9 @@ Machine Learning, Sparse Neural Network, Deep Learning, Cost-efficient Neural Ne
 
 News
 ======
+- ***05/2023***, My doctoral consortium has been accepted for publication at [IJCAI 2023](https://ijcai-23.org/). 
+- ***05/2023***, We organized [ICLR 2023 Workshop on Sparsity in Neural Networks](https://www.sparseneural.net/home) in Kigali, Rwanda on May 5th 2023.
+- ***04/2023***, I have been accepted for a 3-months Ph.D. internship at [Booking.com](https://booking.com) starting from July 2023.
 -  ***03/2023***, I gave a talk TrustML Young Scientist Seminars organized by RIKEN-AIP center on "Learning Efficiently from Data using Sparse Neural Networks"
 ([Link](https://trustmlresearch.github.io/seminar-talks/index_Zahra_Atashgahi.html)).
 -  ***01/2023***, I've started my research vist at University of Cambridge, **van der Schaar Lab**, under supervision of **Prof. Dr. Mihaela van der Schaar**
