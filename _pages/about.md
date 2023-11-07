@@ -19,7 +19,7 @@ Machine Learning, Sparse Neural Network, Deep Learning, Cost-efficient Neural Ne
 
 News
 ======
-- ***05/2023***, My doctoral consortium paper has been accepted for publication at [**IJCAI 2023**]([https://ijcai-23.org/](https://www.ijcai.org/proceedings/2023/810)). 
+- ***05/2023***, My doctoral consortium paper has been accepted for publication at [**IJCAI 2023**](https://www.ijcai.org/proceedings/2023/810). 
 - ***05/2023***, our tutorial “T27: Sparse Training for Supervised, Unsupervised, Continual, and Deep Reinforcement Learning with Deep Neural Networks” has been accepted at [**IJCAI 2023**](https://ijcai-23.org/tutorials/). 
 - ***05/2023***, We organized [**ICLR 2023** Workshop on Sparsity in Neural Networks](https://www.sparseneural.net/home) in Kigali, Rwanda on May 5th 2023.
 - ***04/2023***, I have been accepted for a 3-months Ph.D. internship at [**Booking.com**](https://booking.com) starting from July 2023.
