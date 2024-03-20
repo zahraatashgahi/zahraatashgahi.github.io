@@ -7,6 +7,7 @@ author_profile: true
 # 2024
 -  ***04/2024***, I will defend my Ph.D. thesis, "Advancing Efficiency in Neural Networks through Sparsity and Feature Selection", on 30th of April at 16:45 at the University of Twente.
 -  ***01/2024***, Our paper, "Supervised Feature Selection via Ensemble Gradient Information from Sparse Neural Networks" has been accepted at **AISTATS conference**.
+
 # 2023
 - ***05/2023***, My doctoral consortium paper has been accepted for publication at [**IJCAI 2023**](https://www.ijcai.org/proceedings/2023/810). 
 - ***05/2023***, our tutorial “T27: Sparse Training for Supervised, Unsupervised, Continual, and Deep Reinforcement Learning with Deep Neural Networks” has been accepted at [**IJCAI 2023**](https://ijcai-23.org/tutorials/). 
