@@ -5,16 +5,16 @@ permalink: /news/
 author_profile: true
 ---
 # 2024
--  ***04/2024*** I will defend my Ph.D. thesis, "Advancing Efficiency in Neural Networks through Sparsity and Feature Selection", on 30th of April at 16:45 at the University of Twente.
+-  ***04/2024***, I will defend my Ph.D. thesis, "Advancing Efficiency in Neural Networks through Sparsity and Feature Selection", on 30th of April at 16:45 at the University of Twente.
 -  ***01/2024***, Our paper, "Supervised Feature Selection via Ensemble Gradient Information from Sparse Neural Networks" has been accepted at **AISTATS conference**.
 # 2023
 - ***05/2023***, My doctoral consortium paper has been accepted for publication at [**IJCAI 2023**](https://www.ijcai.org/proceedings/2023/810). 
 - ***05/2023***, our tutorial “T27: Sparse Training for Supervised, Unsupervised, Continual, and Deep Reinforcement Learning with Deep Neural Networks” has been accepted at [**IJCAI 2023**](https://ijcai-23.org/tutorials/). 
 - ***05/2023***, We organized [**ICLR 2023** Workshop on Sparsity in Neural Networks](https://www.sparseneural.net/home) in Kigali, Rwanda on May 5th 2023.
 - ***04/2023***, I have been accepted for a 3-months Ph.D. internship at [**Booking.com**](https://booking.com) starting from July 2023.
--  ***03/2023***, I gave a talk TrustML Young Scientist Seminars organized by RIKEN-AIP center on "Learning Efficiently from Data using Sparse Neural Networks"
+-  ***03/2023***, I gave a talk TrustML Young Scientist Seminars organized by the RIKEN-AIP center on "Learning Efficiently from Data using Sparse Neural Networks"
 ([Link](https://trustmlresearch.github.io/seminar-talks/index_Zahra_Atashgahi.html)).
--  ***01/2023***, I've started my research vist at University of Cambridge, **van der Schaar Lab**, under supervision of **Prof. Dr. Mihaela van der Schaar**
+-  ***01/2023***, I've started my research visit at the University of Cambridge, **van der Schaar Lab**, under the supervision of **Prof. Dr. Mihaela van der Schaar**
 -  ***01/2023***, Our paper, "Supervised Feature Selection with Neuron Evolution in Sparse Neural Networks" has been accepted at **TMLR journal** ([OpenReview](https://openreview.net/forum?id=GcO6ugrLKp), [code](https://github.com/zahraatashgahi/NeuroFS)).
 
 # 2022
@@ -22,13 +22,13 @@ author_profile: true
 -  ***07/2022***, Our paper, "A Brain-inspired Algorithm for Training Highly Sparse Neural Networks" got accepted for publication in **Machine Learning Journal (ECML-PKDD 2022 journal track)**.  Find more information [here](https://zahraatashgahi.github.io/publication/2022-07-04-CTRE). ([paper](https://arxiv.org/abs/1903.07138), [code](https://github.com/zahraatashgahi/CTRE))
 - ***06/2022***, My application for joining ([IJCAI 2022](https://ijcai-22.org/)) as an student volunteer has been accepted.
 - ***04/2022***, our tutorial “Sparse Neural Networks Training” has been accepted at **ECMLPKDD 2022 conference**. Find more information [here](https://sites.google.com/view/ecmlpkdd2022--sparse-training/home).
-- ***02/2022***, I've been accepted as a Student Visitor at University of Cambridge, **van der Schaar Lab**, under supervision of **Prof. Dr. Mihaela van der Schaar**. This 3-month research visit will be starting as of 1st of September 2022.
+- ***02/2022***, I've been accepted as a Student Visitor at the University of Cambridge, **van der Schaar Lab**, under the supervision of **Prof. Dr. Mihaela van der Schaar**. This 3-month research visit will be starting as of 1st of September 2022.
 - ***01/2022***, Our paper, "Deep Ensembling with No Overhead for either Training or Testing: The All-Round Blessings of Dynamic Sparsity" has been accepted at **ICLR 2022**. Find more information check [here](https://zahraatashgahi.github.io/publication/2021-06-28-FreeTickets). 
 
 # 2021
 - ***10/2021***, our paper ["Quick and Robust Feature Selection: the Strength of Energy-efficient Sparse Training for Autoencoders (Extended Abstract)"](https://zahraatashgahi.github.io/files/papers/QuickSelection_extended_abstract.pdf), has been accepted for inclusion in the [BNAIC conference](https://bnaic2021.uni.lu/) program.
 - ***09/2021***, Our paper, "Sparse Training via Boosting Pruning Plasticity with Neuroregeneration" has been accepted at NeurIPS 2021. Find more information [here](https://zahraatashgahi.github.io/publication/2021-06-19-Sparse-Training-via-Boosting-Pruning-Plasticity-with-Neuroregeneration). 
-- ***09/2021***, I participated ACM [womENcourage 2021](https://womencourage.acm.org/2021/) ([Certificate](https://zahraatashgahi.github.io/files/certificates/2021/OxML_School_certificate.pdf)) as a student volunteer and also presented a poster. You can find the poster [here](https://womencourage.acm.org/2021/wp-content/uploads/2021/07/65_poster.pdf) and the corresponding extended abstract [here](https://womencourage.acm.org/2021/wp-content/uploads/2021/07/65_extendedabstract.pdf). 
+- ***09/2021***, I participated in ACM [womENcourage 2021](https://womencourage.acm.org/2021/) ([Certificate](https://zahraatashgahi.github.io/files/certificates/2021/OxML_School_certificate.pdf)) as a student volunteer and also presented a poster. You can find the poster [here](https://womencourage.acm.org/2021/wp-content/uploads/2021/07/65_poster.pdf) and the corresponding extended abstract [here](https://womencourage.acm.org/2021/wp-content/uploads/2021/07/65_extendedabstract.pdf). 
 - ***08/2021***, I attended Oxford Machine Learning Summer School 2021 ([Certificate](https://zahraatashgahi.github.io/files/certificates/2021/acmwomEncourage.pdf)). 
 - ***07/2021***, Our manuscript, "Quick and Robust Feature Selection: the Strength of Energy-efficient Sparse Training for Autoencoders" has been accepted for publication in Machine Learning Journal (ECML-PKDD 2022 journal track). Find more information [here](https://zahraatashgahi.github.io/publication/2022-01-01-QuickSelection). 
 - ***07/2021***, My application for joining ([IJCAI 2021](https://ijcai-21.org/)) as an student volunteer has been accepted.
