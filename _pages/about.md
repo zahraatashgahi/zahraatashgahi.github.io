@@ -14,11 +14,12 @@ I'm Zahra Atashgahi. Currently, I'm a Ph.D. candidate at University of Twente, D
 Research Interests
 ======
 
-Machine Learning, Sparse Neural Network, Deep Learning, Cost-efficient Neural Networks, Time Series Analysis, Feature Selection, Anomaly Detection, Healthcare
+Machine Learning, Sparse Neural Networks, Deep Learning, Cost-efficient Neural Networks, Time Series Analysis, Feature Selection, Anomaly Detection, Healthcare
 
 
 News
 ======
+-  ***01/2024***, Our paper, "Supervised Feature Selection via Ensemble Gradient Information from Sparse Neural Networks" has been accepted at **AISTATS conference**.
 - ***05/2023***, My doctoral consortium paper has been accepted for publication at [**IJCAI 2023**](https://www.ijcai.org/proceedings/2023/810). 
 - ***05/2023***, our tutorial “T27: Sparse Training for Supervised, Unsupervised, Continual, and Deep Reinforcement Learning with Deep Neural Networks” has been accepted at [**IJCAI 2023**](https://ijcai-23.org/tutorials/). 
 - ***05/2023***, We organized [**ICLR 2023** Workshop on Sparsity in Neural Networks](https://www.sparseneural.net/home) in Kigali, Rwanda on May 5th 2023.
