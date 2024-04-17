@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # 2024
--  ***04/2024***, I will defend my Ph.D. thesis, "Advancing Efficiency in Neural Networks through Sparsity and Feature Selection", on 30th of April at 16:45 at the University of Twente.
+-  ***04/2024***, I will defend my Ph.D. thesis, "Advancing Efficiency in Neural Networks through Sparsity and Feature Selection", on the [**30th of April at 16:30**](https://www.utwente.nl/en/education/tgs/currentcandidates/phd/calendar/2024/4/1448468/phd-defence-zahra-atashgahi-advancing-efficiency-in-neural-networks-through-sparsity-and-feature-selection) at the University of Twente.
 -  ***01/2024***, Our paper, "Supervised Feature Selection via Ensemble Gradient Information from Sparse Neural Networks" has been accepted at **AISTATS conference**.
 
 # 2023
