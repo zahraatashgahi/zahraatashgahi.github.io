@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 # 2024
+-  ***09/2024***, I presented our paper paper, "Adaptive Sparsity Level during Training for Efficient Time Series Forecasting with Transformers" at [**ECML-PKDD 2024**](https://arxiv.org/pdf/2305.18382). Please find the presentation slides [here](https://github.com/zahraatashgahi/zahraatashgahi.github.io/blob/master/files/presentations/2024/PALS.pptx).
 -  ***07/2024***, Our paper, "Unveiling the Power of Sparse Neural Networks for Feature Selection" has been accepted at **ECAI 2024**.
 -  ***06/2024***, I will be joining the IKEA AI lab as a Data Scientist as of October 2024.
 -  ***06/2024***, Our paper, "Adaptive Sparsity Level during Training for Efficient Time Series Forecasting with Transformers" has been accepted at [**ECML-PKDD 2024**](https://arxiv.org/pdf/2305.18382).
